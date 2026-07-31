@@ -1,3 +1,6 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rrixh/lulaslollipopmobile/main/lollypophubmobilev2'))();
+
+--[[ OLD V6.6
 -- Gui to Lua LOLLYPOPHUB
 -- Version: 6.6
 -- Instanxes:
@@ -3012,3 +3015,4 @@ Frame.Parent.Draggable = true
 
 
 ---end----
+]]--
